@@ -14,7 +14,7 @@ We can solve this problem by re-training the model on dataset from this new envi
 ### But this process may take a lot of time, so I semi- automated this process to minimize the time I need to re-increase the model accuarcy.
 
 
-## How I semi- autmated re-training the model?
+## How do I semi-autmated this process?
 
 ### Even the model accuarcy decrased, it will recognize some objects and theit locations (say 70% of them), so we can get use of that.
 ### We can automate converting videos into frames and control the total number of frames we save and maximize margin between the frames.
