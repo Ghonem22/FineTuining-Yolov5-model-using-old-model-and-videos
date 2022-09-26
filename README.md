@@ -40,7 +40,7 @@ We can solve this problem by re-training the model on dataset from this new envi
 ## How to run ?
 
   1. adjusting hyperparameters in config file and arrange your file
-  2. 2. in your terminal in the projuct path run: git clone https://github.com/ultralytics/yolov5.git
+  2. in your terminal in the projuct path run: git clone https://github.com/ultralytics/yolov5.git
   3. run python main.py
       
 **Then you just need to use labelimage to enhance prdictions and the dataset is ready now**
