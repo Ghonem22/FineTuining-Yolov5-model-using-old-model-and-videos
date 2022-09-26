@@ -36,10 +36,20 @@ We can solve this problem by re-training the model on dataset from this new envi
   
   4. clean files, and move text files and classes.txt so images and prediction exist in same folder
   
-  
+ 
+## How to run ?
+
+  1. adjusting hyperparameters in config file and arrange your file
+  2. 2. in your terminal in the projuct path run: git clone https://github.com/ultralytics/yolov5.git
+  3. run python main.py
+      
+**Then you just need to use labelimage to enhance prdictions and the dataset is ready now**
+
+
 ### Now we have a dataset but using the power of the old model, we need to to manulally increse adjust this dataset and fix any error in predictions (using labelimg)
 
-## What next ?
 
-We need to train a new model with our new dataset, we will semi-automate that later
+## In the future:
+
+We Will add training the model to the pipeline
 
