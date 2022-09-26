@@ -1,0 +1,18 @@
+project_path: False
+videos_folder_name: videos
+
+saving_path: C:\Users\mahmo\freelance\mohamed\training_pipeline\frames
+model_path: models/best.pt
+classes_file_path: utilities/classes.txt
+
+videos_extensions:
+    - mp4
+    - avi
+    - mkv
+    - flv
+    - m4v
+
+frames_number: 800
+
+conf: 0.1
+resolution: 640
