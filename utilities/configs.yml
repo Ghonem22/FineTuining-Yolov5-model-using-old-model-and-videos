@@ -1,7 +1,7 @@
 project_path: False
 videos_folder_name: videos
 
-saving_path: C:\Users\mahmo\freelance\mohamed\training_pipeline\frames
+saving_path: frames
 model_path: models/best.pt
 classes_file_path: utilities/classes.txt
 
